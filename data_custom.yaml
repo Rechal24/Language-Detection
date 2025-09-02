@@ -1,0 +1,5 @@
+train : D:\DAP\datasets\train
+val : D:\DAP\datasets\val
+
+nc: 3
+names: ["english","german","kannada"]
